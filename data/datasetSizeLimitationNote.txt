@@ -1,2 +1,2 @@
 Due to size limits on GitHub, `autos.csv` can't be included in this repository.
-You can download it from this kaggle website: https://www.kaggle.com/datasets/sijovm/used-cars-data-from-ebay-kleinanzeigen/codeand place it inside the `/data` folder
+The dataset was downloaded from this kaggle website: https://www.kaggle.com/datasets/sijovm/used-cars-data-from-ebay-kleinanzeigen/data
