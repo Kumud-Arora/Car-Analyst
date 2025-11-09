@@ -30,15 +30,15 @@ It loads and cleans raw car sales data, computes model and regional statistics, 
 
 caranalyst/
 │
-├── preprocess.py         
-├── analysis.py           
-├── visualize.py          
-├── report.py             
+├── preprocess.py         # Load, clean, and normalize raw data
+├── analysis.py           # Compute summary statistics
+├── visualize.py          # Generate data visualizations
+├── report.py             # Write Excel report with charts
 │
 ├── data/
-│   └── autos.csv         
+│   └── autos.csv         # Raw eBay car sales dataset
 │
-└── main.py               
+└── main.py               # Main pipeline script        
 
 ## ⚙️ Installation
 
