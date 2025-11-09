@@ -1,7 +1,6 @@
 # 🚗 Car-Analyst
 
-**Car-Analyst** is a Python-based project that demonstrates an end-to-end data analysis pipeline to uncover trends in pricing, popular car models, and geographic sales distribution.  
-It loads and cleans raw car sales data, computes model and regional statistics, creates visualizations, and exports results into a formatted Excel report.
+**Car-Analyst** is a Python-based project that demonstrates an end-to-end data analysis pipeline to uncover trends in pricing, popular car models, and geographic sales distribution. It loads and cleans raw car sales data, computes model and regional statistics, creates visualizations, and exports results into a formatted Excel report.
 
 ### Key Features
 - 🧹 **Data Preprocessing**  
@@ -49,5 +48,6 @@ caranalyst/
 5. Place your dataset (autos.csv) inside the data/ folder (dataset availible on https://www.kaggle.com/datasets/sijovm/used-cars-data-from-ebay-kleinanzeigen/data)
 6. Run the main analysis script
    
-
-
+## 📜 License
+This project is released under the MIT License.  
+> Ironically, this project has a license… and I still don’t. 🚗💀😅
