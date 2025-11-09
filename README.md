@@ -27,7 +27,7 @@ It loads and cleans raw car sales data, computes model and regional statistics, 
   - Pandas, NumPy, Seaborn, scikit-learn, XlsxWriter
 
 ## 🏗️ Project Structure
-
+```
 caranalyst/
 │
 ├── preprocess.py         # Load, clean, and normalize raw data
@@ -39,7 +39,7 @@ caranalyst/
 │   └── autos.csv         # Raw eBay car sales dataset
 │
 └── main.py               # Main pipeline script        
-
+```
 ## ⚙️ Installation
 
 1. Download or clone this repository
